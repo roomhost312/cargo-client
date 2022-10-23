@@ -1365,12 +1365,12 @@ h3 {
 
 /* line 1, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_slider.scss */
 .slider_bg_1 {
-  background-image: url(../images/hero-1.jpg);
+  background-image: url(../img/banner/home-contact.jpg);
 }
 
 /* line 4, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_slider.scss */
 .slider_bg_2 {
-  background-image: url(../images/hero-1.jpg);
+  background-image: url(../img/banner/home-contact.jpg);
 }
 
 /* line 7, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_slider.scss */
@@ -3148,7 +3148,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_Estimate_area.scss */
 .Estimate_area {
-  background-image: url(../img/banner/Estimate_bg.png);
+  background-image: url(../img/banner/contacthome.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -3157,7 +3157,7 @@ h3 {
 
 /* line 7, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_Estimate_area.scss */
 .Estimate_area.overlay:before {
-  background: #001D38;
+  background: #001d3885;
   opacity: .94;
 }
 
