@@ -453,8 +453,8 @@ mailChimp();
 const typedTextSpan = document.querySelector(".typed-text");
 const cursorSpan = document.querySelector(".cursor");
 
-const textArray = [" Office Shifting","Industrial Shiftings", "Relocation", "Commercial Moving",
-"Cargo Transport", "House Shifting", "Packing & Shifting", "Machinery Transport", "Material Transport",
+const textArray = ["Domestic Relocation","Local Relocation", "Storage", "Car Carrier",
+"Full Load", "Transportation (bulk & parcel) supply chain", "Packing", "Loading", "Unloading",
 "Loading In Truck", ];
 const typingDelay = 20;
 const erasingDelay = 30;
